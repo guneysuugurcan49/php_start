@@ -22,6 +22,11 @@
     {
         global $name;
         return $name . ' ' . $surname;
+        //return $GLOBALS['name'] . ' ' . $surname;
     }
-    echo namesurname('guneysu');
+   // echo namesurname('guneysu');
+
+$write = "hello world";
+echo substr($write,0,4);//substr kısaltma için kullanılır
+//strlen() toplam karakter sayısını bulur
 ?>
