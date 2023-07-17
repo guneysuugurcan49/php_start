@@ -9,7 +9,7 @@
     fclose() dosyayı kapatmamızı sağlar
     fwrite() dosyaya birşeyler yazmamızı sağlar
     fread() tüm içeriği okur
-    fgets() dosyayı satır satır okumamızı sağlar
+    fgets() dosyayı satır satır okumamızı sağlar 
     feof() dosyanın sonuna gelinip gelinmediğini kontrol eder
     filesize() dosya karakter sayısını gösterir
     unlink() dosyayı silmek için kullanılır
